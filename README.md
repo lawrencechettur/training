@@ -4,3 +4,5 @@ This is a sample nodejs web application which lists user information and provide
 It connect to mongo database.
 
 Intention is to understand containarization using docker, kubernetes
+
+#Docker instructions
