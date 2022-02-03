@@ -6,4 +6,5 @@ It connect to mongo database.
 Intention is to understand containarization using docker, kubernetes
 
 #Docker instructions
-docker pull command to go here
+
+docker pull judelaw/sample-node-web-app:1.0
