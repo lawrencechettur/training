@@ -8,4 +8,4 @@ Intention is to understand containarization using docker, kubernetes
 #Docker instructions
 docker pull command to go here
 
-testing branching, on a new branch
+correcting this line
